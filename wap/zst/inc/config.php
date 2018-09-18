@@ -10,7 +10,7 @@ ini_set('display_errors', 'Off');
 //数据库配置
 $dbconf                        = array(
     "conn" => "localhost",    //数据库主机
-    "user" => "root",        //数据库帐号
+    "user" => "dianjinshuju",        //数据库帐号
     "pwd" => "dYAd4KeDY6ctczmN",        //数据库密码
     "db" => "0xc" //数据库名称
 );

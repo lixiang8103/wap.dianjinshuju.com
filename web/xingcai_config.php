@@ -6,7 +6,7 @@ $conf['debug']['level']=5;
 $conf['db']['dsn']='mysql:host=localhost;dbname=0xc;charset=utf8';
 $dbname='0xc';
 $dbhost='localhost';
-$conf['db']['user']='root';
+$conf['db']['user']='dianjinshuju';
 $conf['db']['password']='dYAd4KeDY6ctczmN';
 $conf['db']['charset']='utf8';
 $conf['db']['prename']='blast_';

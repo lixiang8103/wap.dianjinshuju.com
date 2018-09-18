@@ -4,7 +4,7 @@ $conf['debug']['level']=5;
 
 /*		���ݿ�����		*/
 $conf['db']['dsn']='mysql:host=localhost;dbname=0xc';
-$conf['db']['user']='root';
+$conf['db']['user']='dianjinshuju';
 $conf['db']['password']='dYAd4KeDY6ctczmN';
 $conf['db']['charset']='utf8';
 $conf['db']['prename']='blast_';

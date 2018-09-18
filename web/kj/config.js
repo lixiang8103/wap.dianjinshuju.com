@@ -1532,7 +1532,7 @@ exports.submit={
 
 exports.dbinfo={
 	host:'localhost',
-	user:'root',
+	user:'dianjinshuju',
 	password:'dYAd4KeDY6ctczmN',
 	database:'0xc'
 
